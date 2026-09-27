@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Wireless Mouse,Electronics,4950.0,3223.4
+2,Bluetooth Speaker,Electronics,4620.0,3326.01
+3,USB-C Hub,Electronics,10010.0,5716.79
+4,Laptop Stand,Electronics,11560.0,7827.47
+5,Webcam,Electronics,10080.0,6969.93
+6,Mechanical Keyboard,Electronics,5680.0,3957.59
+7,Power Bank,Electronics,11610.0,7012.63
+8,Noise Cancelling Headphones,Electronics,9850.0,6477.7
+9,Smart Watch,Electronics,6220.0,3962.85
+10,Monitor Arm,Electronics,8990.0,5427.08
+11,Notebook Set,Office Supplies,1280.0,916.67
+12,Desk Organizer,Office Supplies,180.0,130.74
+13,Sticky Notes Pack,Office Supplies,400.0,257.18
+14,Ballpoint Pens (Box),Office Supplies,930.0,581.99
+15,Whiteboard,Office Supplies,90.0,64.82
+16,Stapler,Office Supplies,310.0,183.65
+17,Filing Folders,Office Supplies,1210.0,747.86
+18,Printer Paper (Ream),Office Supplies,1330.0,918.01
+19,Desk Lamp,Office Supplies,450.0,248.41
+20,Corkboard,Office Supplies,1420.0,805.31
+21,Office Chair,Furniture,13380.0,8666.43
+22,Standing Desk,Furniture,14010.0,9640.59
+23,Bookshelf,Furniture,12160.0,7881.68
+24,Filing Cabinet,Furniture,14580.0,8290.34
+25,Desk Mat,Furniture,5160.0,3551.92
+26,Visitor Chair,Furniture,6550.0,4364.34
+27,Cubicle Partition,Furniture,9310.0,6109.08
+28,Meeting Table,Furniture,8520.0,5957.07
+29,Footrest,Furniture,6960.0,4806.37
+30,Monitor Riser,Furniture,5970.0,3583.68
+31,Coffee Maker,Home & Kitchen,990.0,582.63
+32,Electric Kettle,Home & Kitchen,980.0,644.03
+33,Air Fryer,Home & Kitchen,4640.0,2723.82
+34,Blender,Home & Kitchen,1530.0,989.66
+35,Vacuum Flask,Home & Kitchen,4430.0,3301.77
+36,Dish Rack,Home & Kitchen,3290.0,1995.71
+37,Non-stick Pan Set,Home & Kitchen,870.0,512.28
+38,Cutlery Set,Home & Kitchen,1600.0,937.42
+39,Storage Containers,Home & Kitchen,380.0,249.59
+40,Table Lamp,Home & Kitchen,1860.0,1385.44
