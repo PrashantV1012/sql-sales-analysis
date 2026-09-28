@@ -2,7 +2,6 @@
 
 A SQL-based business analysis of a two-year retail sales dataset (2024–2025), covering revenue trends, product and category performance, customer segmentation, and churn-risk identification.
 
-> **About the data:** This is a synthetic dataset generated for portfolio purposes (150 customers, 40 products across 4 categories, 2,200 orders, 3,288 order line items) — modeled on realistic retail patterns, including seasonal demand and repeat-purchase behavior. All figures below were produced by actually running the queries in `sql/queries.sql` against `sales.db`.
 
 ## Schema
 
